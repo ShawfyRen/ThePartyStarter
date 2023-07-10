@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-16"?>
+<SerializeDictionaryOfStringAbsData>
+  <Key>
+    <string>学习强国</string>
+  </Key>
+  <Value>
+    <AbsData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="OnlyComponentData">
+      <classify>WEB</classify>
+      <Url>https://www.baidu.com/</Url>
+    </AbsData>
+  </Value>
+  <Key>
+    <string>人民网</string>
+  </Key>
+  <Value>
+    <AbsData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="OnlyComponentData">
+      <classify>WEB</classify>
+      <Url>https://www.bookstack.cn/</Url>
+    </AbsData>
+  </Value>
+  <Key>
+    <string>新华网</string>
+  </Key>
+  <Value>
+    <AbsData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="OnlyComponentData">
+      <classify>WEB</classify>
+      <Url>https://www.aliyundrive.com/sign/in</Url>
+    </AbsData>
+  </Value>
+  <Key>
+    <string>央视网</string>
+  </Key>
+  <Value>
+    <AbsData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="OnlyComponentData">
+      <classify>WEB</classify>
+      <Url>https://github.com/</Url>
+    </AbsData>
+  </Value>
+  <Key>
+    <string>党建网</string>
+  </Key>
+  <Value>
+    <AbsData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="OnlyComponentData">
+      <classify>WEB</classify>
+      <Url>https://gwb.tencent.com/</Url>
+    </AbsData>
+  </Value>
+  <Key>
+    <string>求是网</string>
+  </Key>
+  <Value>
+    <AbsData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="OnlyComponentData">
+      <classify>WEB</classify>
+      <Url>https://news.baidu.com/</Url>
+    </AbsData>
+  </Value>
+</SerializeDictionaryOfStringAbsData>

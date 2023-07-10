@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-16"?>
+<SerializeDictionaryOfStringAbsData>
+  <Key>
+    <string>中国共产党建党100周年</string>
+  </Key>
+  <Value>
+    <AbsData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="FourComponentData">
+      <classify>VIDEOANDTEXTURE</classify>
+      <Url>Res/Texture/招商引资13.png</Url>
+      <Url1>Res/Video/歌唱祖国.mp4</Url1>
+      <Url2>Res/Texture/招商引资13.png</Url2>
+      <Url3>Res/Texture/招商引资13.png</Url3>
+    </AbsData>
+  </Value>
+  <Key>
+    <string>中国共产党党史</string>
+  </Key>
+  <Value>
+    <AbsData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="FourComponentData">
+      <classify>VIDEOANDTEXTURE</classify>
+      <Url>Res/Texture/招商引资13.png</Url>
+      <Url1>Res/Video/歌唱祖国.mp4</Url1>
+      <Url2>Res/Texture/招商引资13.png</Url2>
+      <Url3>Res/Texture/招商引资13.png</Url3>
+    </AbsData>
+  </Value>
+  <Key>
+    <string>新中国史</string>
+  </Key>
+  <Value>
+    <AbsData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="FourComponentData">
+      <classify>VIDEOANDTEXTURE</classify>
+      <Url>Res/Texture/招商引资13.png</Url>
+      <Url1>Res/Video/歌唱祖国.mp4</Url1>
+      <Url2>Res/Texture/招商引资13.png</Url2>
+      <Url3>Res/Texture/招商引资13.png</Url3>
+    </AbsData>
+  </Value>
+  <Key>
+    <string>改革开放史</string>
+  </Key>
+  <Value>
+    <AbsData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="FourComponentData">
+      <classify>VIDEOANDTEXTURE</classify>
+      <Url>Res/Texture/招商引资13.png</Url>
+      <Url1>Res/Video/歌唱祖国.mp4</Url1>
+      <Url2>Res/Texture/招商引资13.png</Url2>
+      <Url3>Res/Texture/招商引资13.png</Url3>
+    </AbsData>
+  </Value>
+  <Key>
+    <string>社会主义发展史</string>
+  </Key>
+  <Value>
+    <AbsData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="FourComponentData">
+      <classify>VIDEOANDTEXTURE</classify>
+      <Url>Res/Texture/招商引资13.png</Url>
+      <Url1>Res/Video/歌唱祖国.mp4</Url1>
+      <Url2>Res/Texture/招商引资13.png</Url2>
+      <Url3>Res/Texture/招商引资13.png</Url3>
+    </AbsData>
+  </Value>
+  <Key>
+    <string>特设主题</string>
+  </Key>
+  <Value>
+    <AbsData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="FourComponentData">
+      <classify>VIDEOANDTEXTURE</classify>
+      <Url>Res/Texture/招商引资13.png</Url>
+      <Url1>Res/Video/歌唱祖国.mp4</Url1>
+      <Url2>Res/Texture/招商引资13.png</Url2>
+      <Url3>Res/Texture/招商引资13.png</Url3>
+    </AbsData>
+  </Value>
+  <Key>
+    <string>敬请期待</string>
+  </Key>
+  <Value>
+    <AbsData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="FourComponentData">
+      <classify>VIDEOANDTEXTURE</classify>
+      <Url>Res/Texture/招商引资13.png</Url>
+      <Url1>Res/Video/歌唱祖国.mp4</Url1>
+      <Url2>Res/Texture/招商引资13.png</Url2>
+      <Url3>Res/Texture/招商引资13.png</Url3>
+    </AbsData>
+  </Value>
+</SerializeDictionaryOfStringAbsData>

@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-16"?>
+<SerializeDictionaryOfStringAbsData>
+  <Key>
+    <string>欢迎致辞1</string>
+  </Key>
+  <Value>
+    <AbsData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="OnlyComponentData">
+      <classify>IMAGE</classify>
+      <Url>Res/Texture/招商引资13.png</Url>
+    </AbsData>
+  </Value>
+  <Key>
+    <string>欢迎致辞2</string>
+  </Key>
+  <Value>
+    <AbsData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="OnlyComponentData">
+      <classify>IMAGE</classify>
+      <Url>Res/Texture/招商引资13.png</Url>
+    </AbsData>
+  </Value>
+  <Key>
+    <string>欢迎致辞3</string>
+  </Key>
+  <Value>
+    <AbsData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="OnlyComponentData">
+      <classify>IMAGE</classify>
+      <Url>Res/Texture/招商引资13.png</Url>
+    </AbsData>
+  </Value>
+  <Key>
+    <string>欢迎致辞4</string>
+  </Key>
+  <Value>
+    <AbsData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="OnlyComponentData">
+      <classify>VIDEO</classify>
+      <Url>Res/Video/妈妈爱宝贝的歌.mp4</Url>
+    </AbsData>
+  </Value>
+  <Key>
+    <string>欢迎致辞5</string>
+  </Key>
+  <Value>
+    <AbsData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="OnlyComponentData">
+      <classify>VIDEO</classify>
+      <Url>Res/Video/妈妈爱宝贝的歌.mp4</Url>
+    </AbsData>
+  </Value>
+  <Key>
+    <string>欢迎致辞6</string>
+  </Key>
+  <Value>
+    <AbsData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="OnlyComponentData">
+      <classify>VIDEO</classify>
+      <Url>Res/Video/妈妈爱宝贝的歌.mp4</Url>
+    </AbsData>
+  </Value>
+  <Key>
+    <string>欢迎致辞7</string>
+  </Key>
+  <Value>
+    <AbsData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="OnlyComponentData">
+      <classify>VIDEO</classify>
+      <Url>Res/Video/妈妈爱宝贝的歌.mp4</Url>
+    </AbsData>
+  </Value>
+  <Key>
+    <string>欢迎致辞8</string>
+  </Key>
+  <Value>
+    <AbsData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="OnlyComponentData">
+      <classify>VIDEO</classify>
+      <Url>Res/Video/妈妈爱宝贝的歌.mp4</Url>
+    </AbsData>
+  </Value>
+</SerializeDictionaryOfStringAbsData>

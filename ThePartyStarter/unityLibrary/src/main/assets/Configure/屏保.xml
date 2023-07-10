@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-16"?>
+<SerializeDictionaryOfStringAbsData>
+  <Key>
+    <string>屏保</string>
+  </Key>
+  <Value>
+    <AbsData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="OnlyComponentData">
+      <classify>IMAGE</classify>
+      <Url>Res/Texture/招商引资13.png</Url>
+    </AbsData>
+  </Value>
+  <Key>
+    <string>Icon</string>
+  </Key>
+  <Value>
+    <AbsData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="OnlyComponentData">
+      <classify>IMAGE</classify>
+      <Url>Res/Texture/中国联通.png</Url>
+    </AbsData>
+  </Value>
+</SerializeDictionaryOfStringAbsData>

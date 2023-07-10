@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-16"?>
+<SerializeDictionaryOfStringAbsData>
+  <Key>
+    <string>井冈山博物馆</string>
+  </Key>
+  <Value>
+    <AbsData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ThreeComponentData">
+      <classify>LINKS</classify>
+      <Url>Res/ExternalLink/Test/ThePartyStarter.exe</Url>
+      <Url1>Res/Texture/招商引资13.png</Url1>
+      <Url2>Res/Texture/招商引资13.png</Url2>
+    </AbsData>
+  </Value>
+  <Key>
+    <string>中共一大纪念馆</string>
+  </Key>
+  <Value>
+    <AbsData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ThreeComponentData">
+      <classify>LINKS</classify>
+      <Url>Res/ExternalLink/Test/ThePartyStarter.exe</Url>
+      <Url1>Res/Texture/招商引资13.png</Url1>
+      <Url2>Res/Texture/招商引资13.png</Url2>
+    </AbsData>
+  </Value>
+  <Key>
+    <string>中共一大会址</string>
+  </Key>
+  <Value>
+    <AbsData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ThreeComponentData">
+      <classify>LINKS</classify>
+      <Url>Res/ExternalLink/Test/ThePartyStarter.exe</Url>
+      <Url1>Res/Texture/招商引资13.png</Url1>
+      <Url2>Res/Texture/招商引资13.png</Url2>
+    </AbsData>
+  </Value>
+  <Key>
+    <string>八路军太行纪念馆</string>
+  </Key>
+  <Value>
+    <AbsData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ThreeComponentData">
+      <classify>LINKS</classify>
+      <Url>Res/ExternalLink/Test/ThePartyStarter.exe</Url>
+      <Url1>Res/Texture/招商引资13.png</Url1>
+      <Url2>Res/Texture/招商引资13.png</Url2>
+    </AbsData>
+  </Value>
+  <Key>
+    <string>中共红军长征出发纪念馆</string>
+  </Key>
+  <Value>
+    <AbsData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ThreeComponentData">
+      <classify>LINKS</classify>
+      <Url>Res/ExternalLink/Test/ThePartyStarter.exe</Url>
+      <Url1>Res/Texture/招商引资13.png</Url1>
+      <Url2>Res/Texture/招商引资13.png</Url2>
+    </AbsData>
+  </Value>
+  <Key>
+    <string>红军长征突破湘江纪念馆</string>
+  </Key>
+  <Value>
+    <AbsData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ThreeComponentData">
+      <classify>LINKS</classify>
+      <Url>Res/ExternalLink/Test/ThePartyStarter.exe</Url>
+      <Url1>Res/Texture/招商引资13.png</Url1>
+      <Url2>Res/Texture/招商引资13.png</Url2>
+    </AbsData>
+  </Value>
+  <Key>
+    <string>不忘初心牢记使命</string>
+  </Key>
+  <Value>
+    <AbsData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ThreeComponentData">
+      <classify>LINKS</classify>
+      <Url>Res/ExternalLink/Test/ThePartyStarter.exe</Url>
+      <Url1>Res/Texture/招商引资13.png</Url1>
+      <Url2>Res/Texture/招商引资13.png</Url2>
+    </AbsData>
+  </Value>
+  <Key>
+    <string>平语近人</string>
+  </Key>
+  <Value>
+    <AbsData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ThreeComponentData">
+      <classify>LINKS</classify>
+      <Url>Res/ExternalLink/Test/ThePartyStarter.exe</Url>
+      <Url1>Res/Texture/招商引资13.png</Url1>
+      <Url2>Res/Texture/招商引资13.png</Url2>
+    </AbsData>
+  </Value>
+  <Key>
+    <string>中国精神</string>
+  </Key>
+  <Value>
+    <AbsData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ThreeComponentData">
+      <classify>LINKS</classify>
+      <Url>Res/ExternalLink/Test/ThePartyStarter.exe</Url>
+      <Url1>Res/Texture/招商引资13.png</Url1>
+      <Url2>Res/Texture/招商引资13.png</Url2>
+    </AbsData>
+  </Value>
+  <Key>
+    <string>党员的义务和权力</string>
+  </Key>
+  <Value>
+    <AbsData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ThreeComponentData">
+      <classify>LINKS</classify>
+      <Url>Res/ExternalLink/Test/ThePartyStarter.exe</Url>
+      <Url1>Res/Texture/招商引资13.png</Url1>
+      <Url2>Res/Texture/招商引资13.png</Url2>
+    </AbsData>
+  </Value>
+</SerializeDictionaryOfStringAbsData>

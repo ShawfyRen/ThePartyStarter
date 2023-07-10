@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-16"?>
+<SerializeDictionaryOfStringAbsData>
+  <Key>
+    <string>入党誓词</string>
+  </Key>
+  <Value>
+    <AbsData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="TwoComponentData">
+      <classify>TEXTUREANDAUDIO</classify>
+      <Url>Res/Texture/招商引资13.png</Url>
+      <Url1>Res/《习近平经济思想学习纲要》有声书_共产党员网.mp3</Url1>
+    </AbsData>
+  </Value>
+  <Key>
+    <string>中国共产党发展党员工作流程图</string>
+  </Key>
+  <Value>
+    <AbsData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="OnlyComponentData">
+      <classify>IMAGE</classify>
+      <Url>Res/Texture/招商引资13.png</Url>
+    </AbsData>
+  </Value>
+  <Key>
+    <string>十四五规划</string>
+  </Key>
+  <Value>
+    <AbsData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="OnlyComponentData">
+      <classify>VIDEO</classify>
+      <Url>Res\Video\国家.mp4</Url>
+    </AbsData>
+  </Value>
+  <Key>
+    <string>习近平新时代中国特色社会主义思想</string>
+  </Key>
+  <Value>
+    <AbsData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="OnlyComponentData">
+      <classify>IMAGE</classify>
+      <Url>Res/Texture/招商引资13.png</Url>
+    </AbsData>
+  </Value>
+  <Key>
+    <string>两学一做</string>
+  </Key>
+  <Value>
+    <AbsData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="OnlyComponentData">
+      <classify>IMAGE</classify>
+      <Url>Res/Texture/招商引资13.png</Url>
+    </AbsData>
+  </Value>
+  <Key>
+    <string>三会一课</string>
+  </Key>
+  <Value>
+    <AbsData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="OnlyComponentData">
+      <classify>IMAGE</classify>
+      <Url>Res/Texture/招商引资13.png</Url>
+    </AbsData>
+  </Value>
+  <Key>
+    <string>四史教育</string>
+  </Key>
+  <Value>
+    <AbsData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="OnlyComponentData">
+      <classify>IMAGE</classify>
+      <Url>Res/Texture/招商引资13.png</Url>
+    </AbsData>
+  </Value>
+  <Key>
+    <string>十九大学习问答</string>
+  </Key>
+  <Value>
+    <AbsData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="OnlyComponentData">
+      <classify>IMAGE</classify>
+      <Url>Res/Texture/招商引资13.png</Url>
+    </AbsData>
+  </Value>
+  <Key>
+    <string>不忘初心牢记使命</string>
+  </Key>
+  <Value>
+    <AbsData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="OnlyComponentData">
+      <classify>IMAGE</classify>
+      <Url>Res/Texture/招商引资13.png</Url>
+    </AbsData>
+  </Value>
+  <Key>
+    <string>平语近人</string>
+  </Key>
+  <Value>
+    <AbsData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="OnlyComponentData">
+      <classify>IMAGE</classify>
+      <Url>Res/Texture/招商引资13.png</Url>
+    </AbsData>
+  </Value>
+  <Key>
+    <string>中国精神</string>
+  </Key>
+  <Value>
+    <AbsData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="OnlyComponentData">
+      <classify>IMAGE</classify>
+      <Url>Res/Texture/招商引资13.png</Url>
+    </AbsData>
+  </Value>
+  <Key>
+    <string>党员的义务和权力</string>
+  </Key>
+  <Value>
+    <AbsData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="OnlyComponentData">
+      <classify>IMAGE</classify>
+      <Url>Res/Texture/招商引资13.png</Url>
+    </AbsData>
+  </Value>
+</SerializeDictionaryOfStringAbsData>

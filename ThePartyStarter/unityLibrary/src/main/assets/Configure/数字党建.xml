@@ -1,0 +1,241 @@
+﻿<?xml version="1.0" encoding="utf-16"?>
+<SerializeDictionaryOfStringSerializeDictionaryOfStringAbsData>
+  <Key>
+    <string>新时代新思想</string>
+  </Key>
+  <Value>
+    <SerializeDictionaryOfStringAbsData>
+      <Key>
+        <string>凡人</string>
+      </Key>
+      <Value>
+        <AbsData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="OnlyComponentData">
+          <classify>PDF</classify>
+          <Url>Res/PDF/[凡人做梦智者解梦：心理解析高手].(日)东山宏久.pdf</Url>
+        </AbsData>
+      </Value>
+      <Key>
+        <string>菲利普</string>
+      </Key>
+      <Value>
+        <AbsData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="OnlyComponentData">
+          <classify>PDF</classify>
+          <Url>Res/PDF/菲利普·罗斯-凡人[美]菲利普·罗斯.彭伦译.人民文学出版社(2009).pdf</Url>
+        </AbsData>
+      </Value>
+      <Key>
+        <string>Documentation</string>
+      </Key>
+      <Value>
+        <AbsData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="OnlyComponentData">
+          <classify>PDF</classify>
+          <Url>Res/PDF/Documentation.pdf</Url>
+        </AbsData>
+      </Value>
+    </SerializeDictionaryOfStringAbsData>
+  </Value>
+  <Key>
+    <string>不忘初心牢记使命</string>
+  </Key>
+  <Value>
+    <SerializeDictionaryOfStringAbsData>
+      <Key>
+        <string>凡人</string>
+      </Key>
+      <Value>
+        <AbsData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="OnlyComponentData">
+          <classify>PDF</classify>
+          <Url>Res/PDF/[凡人做梦智者解梦：心理解析高手].(日)东山宏久.pdf</Url>
+        </AbsData>
+      </Value>
+      <Key>
+        <string>菲利普</string>
+      </Key>
+      <Value>
+        <AbsData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="OnlyComponentData">
+          <classify>PDF</classify>
+          <Url>Res/PDF/菲利普·罗斯-凡人[美]菲利普·罗斯.彭伦译.人民文学出版社(2009).pdf</Url>
+        </AbsData>
+      </Value>
+      <Key>
+        <string>Documentation</string>
+      </Key>
+      <Value>
+        <AbsData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="OnlyComponentData">
+          <classify>PDF</classify>
+          <Url>Res/PDF/Documentation.pdf</Url>
+        </AbsData>
+      </Value>
+    </SerializeDictionaryOfStringAbsData>
+  </Value>
+  <Key>
+    <string>两学一做</string>
+  </Key>
+  <Value>
+    <SerializeDictionaryOfStringAbsData>
+      <Key>
+        <string>凡人</string>
+      </Key>
+      <Value>
+        <AbsData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="OnlyComponentData">
+          <classify>PDF</classify>
+          <Url>Res/PDF/[凡人做梦智者解梦：心理解析高手].(日)东山宏久.pdf</Url>
+        </AbsData>
+      </Value>
+      <Key>
+        <string>菲利普</string>
+      </Key>
+      <Value>
+        <AbsData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="OnlyComponentData">
+          <classify>PDF</classify>
+          <Url>Res/PDF/菲利普·罗斯-凡人[美]菲利普·罗斯.彭伦译.人民文学出版社(2009).pdf</Url>
+        </AbsData>
+      </Value>
+      <Key>
+        <string>Documentation</string>
+      </Key>
+      <Value>
+        <AbsData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="OnlyComponentData">
+          <classify>PDF</classify>
+          <Url>Res/PDF/Documentation.pdf</Url>
+        </AbsData>
+      </Value>
+    </SerializeDictionaryOfStringAbsData>
+  </Value>
+  <Key>
+    <string>四史教育</string>
+  </Key>
+  <Value>
+    <SerializeDictionaryOfStringAbsData>
+      <Key>
+        <string>凡人</string>
+      </Key>
+      <Value>
+        <AbsData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="OnlyComponentData">
+          <classify>PDF</classify>
+          <Url>Res/PDF/[凡人做梦智者解梦：心理解析高手].(日)东山宏久.pdf</Url>
+        </AbsData>
+      </Value>
+      <Key>
+        <string>菲利普</string>
+      </Key>
+      <Value>
+        <AbsData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="OnlyComponentData">
+          <classify>PDF</classify>
+          <Url>Res/PDF/菲利普·罗斯-凡人[美]菲利普·罗斯.彭伦译.人民文学出版社(2009).pdf</Url>
+        </AbsData>
+      </Value>
+      <Key>
+        <string>Documentation</string>
+      </Key>
+      <Value>
+        <AbsData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="OnlyComponentData">
+          <classify>PDF</classify>
+          <Url>Res/PDF/Documentation.pdf</Url>
+        </AbsData>
+      </Value>
+    </SerializeDictionaryOfStringAbsData>
+  </Value>
+  <Key>
+    <string>三会一课</string>
+  </Key>
+  <Value>
+    <SerializeDictionaryOfStringAbsData>
+      <Key>
+        <string>凡人</string>
+      </Key>
+      <Value>
+        <AbsData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="OnlyComponentData">
+          <classify>PDF</classify>
+          <Url>Res/PDF/[凡人做梦智者解梦：心理解析高手].(日)东山宏久.pdf</Url>
+        </AbsData>
+      </Value>
+      <Key>
+        <string>菲利普</string>
+      </Key>
+      <Value>
+        <AbsData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="OnlyComponentData">
+          <classify>PDF</classify>
+          <Url>Res/PDF/菲利普·罗斯-凡人[美]菲利普·罗斯.彭伦译.人民文学出版社(2009).pdf</Url>
+        </AbsData>
+      </Value>
+      <Key>
+        <string>Documentation</string>
+      </Key>
+      <Value>
+        <AbsData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="OnlyComponentData">
+          <classify>PDF</classify>
+          <Url>Res/PDF/Documentation.pdf</Url>
+        </AbsData>
+      </Value>
+    </SerializeDictionaryOfStringAbsData>
+  </Value>
+  <Key>
+    <string>聚焦十四五</string>
+  </Key>
+  <Value>
+    <SerializeDictionaryOfStringAbsData>
+      <Key>
+        <string>凡人</string>
+      </Key>
+      <Value>
+        <AbsData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="OnlyComponentData">
+          <classify>PDF</classify>
+          <Url>Res/PDF/[凡人做梦智者解梦：心理解析高手].(日)东山宏久.pdf</Url>
+        </AbsData>
+      </Value>
+      <Key>
+        <string>菲利普</string>
+      </Key>
+      <Value>
+        <AbsData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="OnlyComponentData">
+          <classify>PDF</classify>
+          <Url>Res/PDF/菲利普·罗斯-凡人[美]菲利普·罗斯.彭伦译.人民文学出版社(2009).pdf</Url>
+        </AbsData>
+      </Value>
+      <Key>
+        <string>Documentation</string>
+      </Key>
+      <Value>
+        <AbsData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="OnlyComponentData">
+          <classify>PDF</classify>
+          <Url>Res/PDF/Documentation.pdf</Url>
+        </AbsData>
+      </Value>
+    </SerializeDictionaryOfStringAbsData>
+  </Value>
+  <Key>
+    <string>从严治党</string>
+  </Key>
+  <Value>
+    <SerializeDictionaryOfStringAbsData>
+      <Key>
+        <string>凡人</string>
+      </Key>
+      <Value>
+        <AbsData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="OnlyComponentData">
+          <classify>PDF</classify>
+          <Url>Res/PDF/[凡人做梦智者解梦：心理解析高手].(日)东山宏久.pdf</Url>
+        </AbsData>
+      </Value>
+      <Key>
+        <string>菲利普</string>
+      </Key>
+      <Value>
+        <AbsData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="OnlyComponentData">
+          <classify>PDF</classify>
+          <Url>Res/PDF/菲利普·罗斯-凡人[美]菲利普·罗斯.彭伦译.人民文学出版社(2009).pdf</Url>
+        </AbsData>
+      </Value>
+      <Key>
+        <string>Documentation</string>
+      </Key>
+      <Value>
+        <AbsData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="OnlyComponentData">
+          <classify>PDF</classify>
+          <Url>Res/PDF/Documentation.pdf</Url>
+        </AbsData>
+      </Value>
+    </SerializeDictionaryOfStringAbsData>
+  </Value>
+</SerializeDictionaryOfStringSerializeDictionaryOfStringAbsData>

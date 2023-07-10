@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-16"?>
+<SerializeDictionaryOfStringAbsData>
+  <Key>
+    <string>智慧党建</string>
+  </Key>
+  <Value>
+    <AbsData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="OnlyForldComponentData">
+      <classify>TEXTUREFOLDER</classify>
+      <Url>
+        <string>D:\Shawfy\Documents\Unity Projects\ThePartyStarter\Res\Texture</string>
+        <string>D:\Shawfy\Documents\Unity Projects\ThePartyStarter\Res\Texture</string>
+        <string>D:\Shawfy\Documents\Unity Projects\ThePartyStarter\Res\Texture</string>
+      </Url>
+    </AbsData>
+  </Value>
+  <Key>
+    <string>党员风采</string>
+  </Key>
+  <Value>
+    <AbsData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="OnlyForldComponentData">
+      <classify>TEXTUREFOLDER</classify>
+      <Url>
+        <string>D:\Shawfy\Documents\Unity Projects\ThePartyStarter\Res\Texture</string>
+        <string>D:\Shawfy\Documents\Unity Projects\ThePartyStarter\Res\Texture</string>
+        <string>D:\Shawfy\Documents\Unity Projects\ThePartyStarter\Res\Texture</string>
+      </Url>
+    </AbsData>
+  </Value>
+  <Key>
+    <string>视频集锦</string>
+  </Key>
+  <Value>
+    <AbsData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="OnlyForldComponentData">
+      <classify>TEXTUREFOLDER</classify>
+      <Url>
+        <string>D:\Shawfy\Documents\Unity Projects\ThePartyStarter\Res\Texture</string>
+        <string>D:\Shawfy\Documents\Unity Projects\ThePartyStarter\Res\Texture</string>
+        <string>D:\Shawfy\Documents\Unity Projects\ThePartyStarter\Res\Texture</string>
+      </Url>
+    </AbsData>
+  </Value>
+  <Key>
+    <string>欢迎致辞</string>
+  </Key>
+  <Value>
+    <AbsData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="OnlyForldComponentData">
+      <classify>TEXTUREFOLDER</classify>
+      <Url>
+        <string>D:\Shawfy\Documents\Unity Projects\ThePartyStarter\Res\Texture</string>
+        <string>D:\Shawfy\Documents\Unity Projects\ThePartyStarter\Res\Texture</string>
+        <string>D:\Shawfy\Documents\Unity Projects\ThePartyStarter\Res\Texture</string>
+      </Url>
+    </AbsData>
+  </Value>
+  <Key>
+    <string>活动纪实</string>
+  </Key>
+  <Value>
+    <AbsData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="OnlyForldComponentData">
+      <classify>TEXTUREFOLDER</classify>
+      <Url>
+        <string>D:\Shawfy\Documents\Unity Projects\ThePartyStarter\Res\Texture</string>
+        <string>D:\Shawfy\Documents\Unity Projects\ThePartyStarter\Res\Texture</string>
+        <string>D:\Shawfy\Documents\Unity Projects\ThePartyStarter\Res\Texture</string>
+      </Url>
+    </AbsData>
+  </Value>
+  <Key>
+    <string>工作汇报</string>
+  </Key>
+  <Value>
+    <AbsData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="OnlyForldComponentData">
+      <classify>TEXTUREFOLDER</classify>
+      <Url>
+        <string>D:\Shawfy\Documents\Unity Projects\ThePartyStarter\Res\Texture</string>
+        <string>D:\Shawfy\Documents\Unity Projects\ThePartyStarter\Res\Texture</string>
+        <string>D:\Shawfy\Documents\Unity Projects\ThePartyStarter\Res\Texture</string>
+      </Url>
+    </AbsData>
+  </Value>
+</SerializeDictionaryOfStringAbsData>
